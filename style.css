@@ -1,36 +1,42 @@
 
-.mulish-<uniquifier> {
-    font-family: "Mulish", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 400;
-    font-style: normal;
-  }
-
 img {
     border-radius: 50%;
-    margin: 0 auto;
+    margin: 50px auto;
     display: block;
     width: 300px;
     height: 300px;
-    border: 1px; solid; black;
-}
+    border: 2px solid black;
+    }   
 
 h1 {
-    color: #A81A1A;
-    text-align: center;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
+    color: #DA1E37;
+    font-size: 35px;
+    margin: 0;
+    padding-bottom: 50px;
+    }
+
+h2 {
+    color: #250001;
+    font-size: 20px;
+    padding-bottom: 20px;
+    padding-top: 40px;
+    margin: 0;
+    text-decoration: underline;
+    }
 
 body {
-    background-color: #EADBDB;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #FFDAC6;
+    font-family: Mulish, sans-serif;
     text-align: center;
-}
+    }
 
 a {
     color: brown;
-}
+    }
 
+footer {
+    padding: 50px 0 0 0;
+    }   
 
 
 

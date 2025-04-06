@@ -30,6 +30,16 @@ body {
     text-align: center;
     }
 
+ul {
+    display: inline-block;
+    list-style: none;
+    margin-inline: auto;
+    }
+
+li {
+        line-height: 1.5;
+        margin-block: 16px;
+        }
 a {
     color: brown;
     }
@@ -38,7 +48,8 @@ footer {
     padding: 50px 0 0 0;
     }   
 
+p {
+    line-height: 1.5;
+    }
 
 
-
-/*barva h1 / #D20646 / #A81A1A / #DC3636 / #BA2626 
